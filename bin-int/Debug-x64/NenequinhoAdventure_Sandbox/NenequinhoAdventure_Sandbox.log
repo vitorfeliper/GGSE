@@ -1,3 +1,2 @@
-﻿  Application.cpp
-D:\______GANJGAMESTUDIOS\GGSE\NenequinhoAdventure_Sandbox\src\Application.cpp(8,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+﻿  NA_SandboxApp.cpp
   NenequinhoAdventure_Sandbox.vcxproj -> D:\______GANJGAMESTUDIOS\GGSE\bin\Debug-x64\NenequinhoAdventure_Sandbox\NenequinhoAdventure_Sandbox.exe
