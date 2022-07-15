@@ -8,8 +8,12 @@ int main(int argc, char** argv)
 {
     printf("GanjGame Engine!!\n");
 
-    auto app = GGSE::CreateApplication();
+    GGSE::Log::Init();
+    GGS_CORE_WARN("Initialized log!! :D");
+    int a = 5;
+    GGS_CLIENT_INFO("Hello!!! Var={0}", a);
 
+    auto app = GGSE::CreateApplication();
     app->Run();
     delete app;
 }
