@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dee34feb-4ab3-4ebb-a6c7-523938f815e0": {
+      "ProjectGuid": "dee34feb-4ab3-4ebb-a6c7-523938f815e0",
+      "DisplayName": "GGSE",
+      "ColorIndex": 0
+    },
+    "ebd48f06-0edf-46c8-b6a7-e98d9071b2b4": {
+      "ProjectGuid": "ebd48f06-0edf-46c8-b6a7-e98d9071b2b4",
+      "DisplayName": "NenequinhoAdventure_Sandbox",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "6b37857c-576e-860d-005b-6c10ec70020f": {
+      "ProjectGuid": "6b37857c-576e-860d-005b-6c10ec70020f",
+      "DisplayName": "GGSE",
+      "ColorIndex": 2
+    },
+    "db8e7c84-479c-aa6a-d082-a6553c8f7621": {
+      "ProjectGuid": "db8e7c84-479c-aa6a-d082-a6553c8f7621",
+      "DisplayName": "NenequinhoAdventure_Sandbox",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

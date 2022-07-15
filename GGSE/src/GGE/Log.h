@@ -1,9 +1,10 @@
 #pragma once
+#pragma warning (disable: 4251)
 
-#include <memory>
-
+#include "ggpch.h"
 #include "Core.h"
 #include "spdlog/spdlog.h"
+#include "spdlog/fmt/ostr.h"
 
 namespace GGSE
 {

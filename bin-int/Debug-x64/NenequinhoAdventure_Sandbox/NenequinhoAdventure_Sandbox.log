@@ -1,6 +1,0 @@
-﻿  NA_SandboxApp.cpp
-D:\______GANJGAMESTUDIOS\GGSE\GGSE\src\GGE\Log.h(20,43): warning C4251: 'GGSE::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' precisa ter dll-interface para ser usado por clientes de class 'GGSE::Log'
-D:\______GANJGAMESTUDIOS\GGSE\GGSE\vendor\spdlog\include\spdlog\details\registry.h(34): message : consulte a declaração de 'std::shared_ptr<spdlog::logger>'
-D:\______GANJGAMESTUDIOS\GGSE\GGSE\src\GGE\Log.h(21,43): warning C4251: 'GGSE::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' precisa ter dll-interface para ser usado por clientes de class 'GGSE::Log'
-D:\______GANJGAMESTUDIOS\GGSE\GGSE\vendor\spdlog\include\spdlog\details\registry.h(34): message : consulte a declaração de 'std::shared_ptr<spdlog::logger>'
-  NenequinhoAdventure_Sandbox.vcxproj -> D:\______GANJGAMESTUDIOS\GGSE\bin\Debug-x64\NenequinhoAdventure_Sandbox\NenequinhoAdventure_Sandbox.exe

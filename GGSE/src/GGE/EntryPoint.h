@@ -3,6 +3,7 @@
 #ifdef GGE_PLATFORM_WINDOWS
 
 extern GGSE::Application* GGSE::CreateApplication();
+#include <Windows.h>
 
 int main(int argc, char** argv)
 {
@@ -16,6 +17,8 @@ int main(int argc, char** argv)
     auto app = GGSE::CreateApplication();
     app->Run();
     delete app;
+
+    system("Pause");
 }
 
 #endif // GGE_PLATFORM_WINDOWS
